@@ -1,0 +1,16 @@
+#outer
+{
+    border:2px solid black;
+    height:400px;
+    width:400px;
+    background-color: hotpink;
+}
+#inner
+{
+    border:2px solid black;
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    font-size:3em;
+    padding:1em;
+}

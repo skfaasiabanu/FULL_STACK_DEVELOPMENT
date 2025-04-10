@@ -1,0 +1,53 @@
+div{
+    height:200px;
+    width:500px;
+    border:2px,solid,black;
+    padding: 50px;
+    margin:50px;
+}
+/*
+#style1
+{
+    border-width:5px;
+    border-style:solid;
+    border-color:hotpink;
+    border-top-style:solid;
+    border-top-width:5px;
+    border-top-color:blue;
+    border-radius:15px;
+    border-radius: 50%;
+    
+    /*border-left:5px,solid,blue;
+#style2
+{
+    border:2px,solid,green;
+    border-top-style:solid;
+    border-top-width:5px;
+    border-top-color:blue;
+
+}
+button{
+    /* for circle shape
+    height:200px;
+    width:200px;
+    border-radius:50%;
+    
+    border:2px,splid,black;
+    border-radius:15px;
+    padding-left: 25px;
+    padding-right:25px;
+    
+
+
+}
+button:hover
+{
+    padding-left: 125px;
+    padding-right:125px;
+
+}
+h1{
+    border:2px,solid,red;
+    border-top-right-radius:12px;
+}
+*/
