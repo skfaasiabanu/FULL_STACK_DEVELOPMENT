@@ -1,0 +1,22 @@
+.container
+{
+    width:600px;
+    height:300px;
+    border:2px solid black;
+    display:grid;
+    /*grid-template-rows:100px 100px 100px;
+    grid-template-columns: 100px 100px 100px;
+    */
+    grid-template-rows:repeat(5,1fr);
+    grid-template-columns:repeat(3,1fr);
+
+}
+.item
+{
+    /*height:50px;
+    width:100px;
+    */
+    background-color: greenyellow;
+    border:2px solid black;
+    text-align: center;
+}

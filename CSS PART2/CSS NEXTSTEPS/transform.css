@@ -1,0 +1,36 @@
+div{
+    height:30px;
+    width:100px;
+    border:2px solid black;
+    margin:10px auto;
+    background-color:#C1D8C3;
+}
+div:nth-of-type(3n)
+{
+    background-color:#6A9C89;
+}
+div:nth-of-type(2n)
+{
+    background-color:#FFA725;
+}
+.rotate
+{
+    margin-top:50px;
+    transform: rotate(45deg);
+}
+.scale
+{
+    transform:scale(0.5);
+}
+.translate
+{
+    transform:translate(100px);
+}
+.skew
+{
+    transform:skew(30deg);
+}
+.all
+{
+    transform:rotate(44deg) scale(1.5) translate(100px) skew(30deg)
+}

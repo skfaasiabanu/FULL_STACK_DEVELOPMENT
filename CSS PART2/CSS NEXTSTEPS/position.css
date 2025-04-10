@@ -1,0 +1,22 @@
+div{
+    background-color:green;
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    margin:20px;
+    display:inline-block;
+}
+#static
+{
+    background-color: yellow;
+    position:static;
+    top:50px;
+    left:50px;
+}
+#relative
+{
+    background-color: yellow;
+    position:relative;
+    top:100px;
+    left:100px;
+}

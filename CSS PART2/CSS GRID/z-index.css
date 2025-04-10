@@ -1,0 +1,21 @@
+#div1{
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    position:relative;
+    z-index:2;
+}
+#div2
+{
+    height:100px;
+    width:100px;
+    background-color:red; 
+    position:relative;
+    bottom:50px;
+}
+#div3
+{
+    height:100px;
+    width:100px;
+    background-color:blue;
+}
